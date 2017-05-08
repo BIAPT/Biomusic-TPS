@@ -1,0 +1,10 @@
+C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\bin\Release\bmosc.exe.config
+C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\bin\Release\bmosc.exe
+C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\bin\Release\bmosc.pdb
+C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\bin\Release\TPSbvp_cl.dll
+C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\bin\Release\Ventuz.OSC.dll
+C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\obj\Release\bmosc.csprojResolveAssemblyReference.cache
+C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\obj\Release\Interop.TTLLiveCtrlLib.dll
+C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\obj\Release\bmosc.csproj.ResolveComReference.cache
+C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\obj\Release\bmosc.exe
+C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\obj\Release\bmosc.pdb
