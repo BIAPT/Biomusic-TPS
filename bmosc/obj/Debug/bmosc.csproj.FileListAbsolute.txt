@@ -1,12 +1,10 @@
-C:\Users\Yacine\Desktop\Blain-Moraes (Summer-17)\ig40in-bmosc-d872a95d4d39\bmosc\obj\Debug\bmosc.csproj.ResolveComReference.cache
-C:\Users\Yacine\Desktop\Blain-Moraes (Summer-17)\ig40in-bmosc-d872a95d4d39\bmosc\obj\Debug\bmosc.csprojResolveAssemblyReference.cache
-C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\bin\Debug\bmosc.exe.config
-C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\bin\Debug\bmosc.exe
-C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\bin\Debug\bmosc.pdb
-C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\bin\Debug\TPSbvp_cl.dll
-C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\bin\Debug\Ventuz.OSC.dll
-C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\obj\Debug\bmosc.csprojResolveAssemblyReference.cache
-C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\obj\Debug\Interop.TTLLiveCtrlLib.dll
-C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\obj\Debug\bmosc.csproj.ResolveComReference.cache
-C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\obj\Debug\bmosc.exe
-C:\Users\Yacine\Desktop\BM\ig40in-bmosc-d872a95d4d39\bmosc\obj\Debug\bmosc.pdb
+C:\Users\Yacine\Desktop\ig40in-bmosc-d872a95d4d39\bmosc\bin\Debug\bmosc.exe.config
+C:\Users\Yacine\Desktop\ig40in-bmosc-d872a95d4d39\bmosc\bin\Debug\bmosc.exe
+C:\Users\Yacine\Desktop\ig40in-bmosc-d872a95d4d39\bmosc\bin\Debug\bmosc.pdb
+C:\Users\Yacine\Desktop\ig40in-bmosc-d872a95d4d39\bmosc\bin\Debug\TPSbvp_cl.dll
+C:\Users\Yacine\Desktop\ig40in-bmosc-d872a95d4d39\bmosc\bin\Debug\Ventuz.OSC.dll
+C:\Users\Yacine\Desktop\ig40in-bmosc-d872a95d4d39\bmosc\obj\Debug\bmosc.csprojResolveAssemblyReference.cache
+C:\Users\Yacine\Desktop\ig40in-bmosc-d872a95d4d39\bmosc\obj\Debug\Interop.TTLLiveCtrlLib.dll
+C:\Users\Yacine\Desktop\ig40in-bmosc-d872a95d4d39\bmosc\obj\Debug\bmosc.csproj.ResolveComReference.cache
+C:\Users\Yacine\Desktop\ig40in-bmosc-d872a95d4d39\bmosc\obj\Debug\bmosc.exe
+C:\Users\Yacine\Desktop\ig40in-bmosc-d872a95d4d39\bmosc\obj\Debug\bmosc.pdb
